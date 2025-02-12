@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello 👋
+Welcome to my GitHub! I'm a researcher with a passion for human physiology and drug development, now exploring the exciting intersection of data science and biomedical research.
 <!--
 **ahmadi-web/ahmadi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
